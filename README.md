@@ -106,7 +106,16 @@ successfully executed.
 # PROGRAM 3:
 ## AIM: 
 Create a C Program to store the student information and display it using structure. 
- 
+## ALGORITHM: 
+```
+Start
+Define structure student
+Declare structure variable
+Read student details
+Store data in structure
+Display details
+Stop
+```
 ## PROGRAM: 
 ``` 
 #include<stdio.h> 
